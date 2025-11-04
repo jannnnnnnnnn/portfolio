@@ -9,8 +9,8 @@ const repo =
 
 const nextConfig = {
   output: 'export',
-  basePath: process.env.NODE_ENV === "production" ? `/${repo}` : "",
-  assetPrefix: process.env.NODE_ENV === "production" ? `/${repo}/` : "",
+  basePath: isProd ? `/${repo}` : "",
+  assetPrefix: isProd ? `/${repo}/` : "",
   eslint: {
     ignoreDuringBuilds: true,
   },
@@ -20,6 +20,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  env: {
+    NEXT_PUBLIC_BASE_PATH: isProd ? `/${repo}` : ""
+  }
 }
 
 export default nextConfig

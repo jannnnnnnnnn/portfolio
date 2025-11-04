@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export function AboutMe() {
   return (
     <section id="about" className="py-32 px-6 lg:px-8 bg-background">
@@ -27,10 +29,12 @@ export function AboutMe() {
           {/* Right: Portrait */}
           <div className="relative">
             <div className="aspect-[3/4] rounded-2xl bg-muted overflow-hidden">
-              <img
+              <Image
                 src="/product-manager-portrait.jpg"
                 alt="Janet Han, Product Manager specializing in healthcare technology and pharmaceutical digital platforms"
-                className="w-full h-full object-cover grayscale"
+                fill
+                className="object-cover grayscale"
+                sizes="100vw"
               />
               {/*working image file}
               {/* <img
