@@ -1,7 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  // </CHANGE>
+  basePath: process.env.NODE_ENV === "production" ? `/${repo}` : "",
+  assetPrefix: process.env.NODE_ENV === "production" ? `/${repo}/` : "",
   eslint: {
     ignoreDuringBuilds: true,
   },
