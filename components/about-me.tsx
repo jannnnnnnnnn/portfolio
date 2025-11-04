@@ -32,6 +32,12 @@ export function AboutMe() {
                 alt="Janet Han, Product Manager specializing in healthcare technology and pharmaceutical digital platforms"
                 className="w-full h-full object-cover grayscale"
               />
+              {/*working image file}
+              {/* <img
+                src="https://lh3.googleusercontent.com/d/1HZ7xI02bfGrDbDNxqMgWoDKqwklXwDI4=w1000"
+                alt="Janet Han, Product Manager specializing in healthcare technology and pharmaceutical digital platforms"
+                className="w-full h-full object-cover grayscale"
+              /> */}
             </div>
           </div>
         </div>

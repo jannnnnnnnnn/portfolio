@@ -48,9 +48,9 @@ export function ProductCard({ product, onClose }: { product: Product; onClose?: 
           </div>
         </div>
 
-        {product.floatingImages && product.floatingImages.length > 0 && (
+        {/* {product.floatingImages && product.floatingImages.length > 0 && (
           <FloatingImages images={product.floatingImages} />
-        )}
+        )} */}
 
         {/* Roadmap */}
         <div>
