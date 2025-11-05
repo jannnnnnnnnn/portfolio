@@ -1,6 +1,8 @@
 import Image from "next/image";
 
 export function AboutMe() {
+  const prefix = process.env.NEXT_PUBLIC_BASE_PATH || "";
+
   return (
     <section id="about" className="py-32 px-6 lg:px-8 bg-background">
       <div className="max-w-7xl mx-auto">
@@ -30,7 +32,7 @@ export function AboutMe() {
           <div className="relative">
             <div className="aspect-[3/4] rounded-2xl bg-muted overflow-hidden">
               <Image
-                src="/product-manager-portrait.jpg"
+                src={`${prefix}/product-manager-portrait.jpg`}
                 alt="Janet Han, Product Manager specializing in healthcare technology and pharmaceutical digital platforms"
                 fill
                 className="object-cover grayscale"
