@@ -10,19 +10,19 @@ const products = [
       "To modernize public health communication by creating a centralized, secure digital platform for personalized cancer screening correspondence, beginning with colon cancer, to increase accessibility and citizen engagement across Ontario.",
     description:
       "Centralized digital platform for cancer screening correspondence across Ontario, modernizing public health communication.",
-    image: "/dc-portal-landing.png",
+    image: "https://lh3.googleusercontent.com/d/1aq4usD_7HBInrQkprkSH5P_4pH-L0_G0=w1000",
     tags: ["Healthcare", "Digital Transformation", "Public Health"],
     floatingImages: [
       {
-        src: "/dc-portal-landing.png",
+        src: "https://lh3.googleusercontent.com/d/1XaFS9REBm_K4iXiK7Wdgpvu_39QPbyTf=w1000",
         alt: "Digital Correspondence Portal Landing Page",
       },
       {
-        src: "/dc-portal-inbox.png",
+        src: "https://lh3.googleusercontent.com/d/1pAWFBqfq4nLauz12AEwcHWXu6tMg9wH8=w1000",
         alt: "Digital Correspondence Portal User Inbox",
       },
       {
-        src: "/dc-portal-help.png",
+        src: "https://lh3.googleusercontent.com/d/1aq4usD_7HBInrQkprkSH5P_4pH-L0_G0=w1000",
         alt: "Digital Correspondence Portal Help Section",
       },
     ],
@@ -63,21 +63,21 @@ const products = [
       "Transform cancer screening access by providing FIT kits directly through local health centers in underserved communities.",
     description:
       "Program providing FIT kits through local health centers to improve cancer screening access in underserved communities.",
-    image: "/fit-trifold.jpg",
+    image: "https://lh3.googleusercontent.com/d/1DWurIam0TeOPleZWRCuJJigThTBzqcWZ",
     tags: ["Healthcare", "Cancer Screening", "Community Health"],
     floatingImages: [
       {
-        src: "/fit-instructions.png",
+        src: "https://lh3.googleusercontent.com/d/1F8TFBJYT-hBXOE73t3MzPABuWdtVRgi8",
         alt: "FIT Kit Instructions",
         size: "large",
       },
       {
-        src: "/fit-kit-materials.png",
+        src: "https://lh3.googleusercontent.com/d/1dGcyKvlK-PJdYe8cZCmrILEY59AF6-Xg",
         alt: "FIT Kit Materials",
         size: "small",
       },
       {
-        src: "/fit-requisition.png",
+        src: "https://lh3.googleusercontent.com/d/1HkOHTPFDKxouEBC8X-rQc-ykBpJtzIpc",
         alt: "FIT Requisition Form",
         size: "small",
       },
@@ -105,7 +105,7 @@ const products = [
       "Create a unified global digital presence for 4 therapeutic areas to enhance healthcare professional engagement.",
     description:
       "Unified global digital platform for pharmaceutical company covering 4 therapeutic areas for HCP engagement.",
-    image: "/alnylam-main.jpg",
+    image: "https://lh3.googleusercontent.com/d/1afk-RGxbxDIORkT61HXtsJyOUhG4Xkid",
     tags: ["Pharmaceutical", "Digital Platform", "Global"],
     roadmap: [
       { phase: "PITCH", description: "$250K+ Contract Won" },
@@ -127,7 +127,7 @@ const products = [
     category: "Pharmaceutical Digital Platform",
     vision: "Digital platform for Multiple Sclerosis treatment information and patient resources.",
     description: "Comprehensive digital resource for MS patients and healthcare professionals.",
-    image: "/novartis-ms.jpg",
+    image: "https://lh3.googleusercontent.com/d/1MwSz3wuhg0BThyXqEXCSdM1y6nk8urI0",
     tags: ["Pharmaceutical", "Patient Education", "MS Treatment"],
     roadmap: [
       { phase: "DISCOVERY", description: "Patient Needs Research" },
@@ -149,7 +149,7 @@ const products = [
     category: "Medical Education Tool",
     vision: "Interactive educational tool for understanding Cystic Fibrosis sweat chloride testing.",
     description: "Digital educational platform for CF sweat chloride testing for healthcare professionals.",
-    image: "/vertex-image1.png",
+    image: "https://lh3.googleusercontent.com/d/1V7B0rb2xaZNQq0i2bya-Hbg3ikJpAaLF",
     tags: ["Medical Education", "Cystic Fibrosis", "Diagnostic Tool"],
     roadmap: [
       { phase: "CONCEPT", description: "Educational Approach Defined" },
@@ -171,7 +171,7 @@ const products = [
     category: "Pharmaceutical Pipeline Visualization",
     vision: "Interactive visualization of pharmaceutical development pipeline for stakeholders.",
     description: "Dynamic pipeline visualization tool for tracking drug development progress.",
-    image: "/alexion-pipeline.png",
+    image: "https://lh3.googleusercontent.com/d/1ucYs4wR55VP3pjb_TxTe0Y-rjQHvsw6L",
     tags: ["Pharmaceutical", "Data Visualization", "Pipeline Management"],
     roadmap: [
       { phase: "REQUIREMENTS", description: "Stakeholder Needs Gathered" },
@@ -193,7 +193,7 @@ const products = [
     category: "Award-Winning Medical Education",
     vision: "Immersive AR experience educating healthcare professionals about eye disease through 3D visualization.",
     description: "Award-winning AR application for medical education about eye mites and disease.",
-    image: "/tarsus-mite-image1.png",
+    image: "https://lh3.googleusercontent.com/d/1HZ7xI02bfGrDbDNxqMgWoDKqwklXwDI4",
     tags: ["AR/VR", "Medical Education", "Award-Winning"],
     roadmap: [
       { phase: "CONCEPT", description: "Innovative AR Idea" },
@@ -217,7 +217,7 @@ const products = [
     category: "Healthcare Data Analytics",
     vision: "Advanced data visualization platform for pharmaceutical research and clinical data.",
     description: "Interactive data visualization tool for analyzing clinical trial and research data.",
-    image: "/eli-lilly-image1.png",
+    image: "https://lh3.googleusercontent.com/d/1qLbEEVVWcVvSVGy6OWPRmCA5ZWIIywES",
     tags: ["Data Analytics", "Pharmaceutical", "Visualization"],
     roadmap: [
       { phase: "DISCOVERY", description: "Data Needs Analysis" },
@@ -239,7 +239,7 @@ const products = [
     category: "Medical Device Digital Tool",
     vision: "Decision support tool for selecting appropriate infusion therapy devices.",
     description: "Interactive tool helping healthcare professionals select optimal infusion devices.",
-    image: "/medtronic-infusion-image1.png",
+    image: "https://lh3.googleusercontent.com/d/1PERvCDgArUbhQvtTDKt9wNfoszxTlza1",
     tags: ["Medical Devices", "Decision Support", "Healthcare"],
     roadmap: [
       { phase: "REQUIREMENTS", description: "Clinical Needs Gathered" },
@@ -262,7 +262,7 @@ const products = [
     vision:
       "Build a decentralized NFT ecosystem to increase utility and value of company cryptocurrency through digital collectibles.",
     description: "Decentralized NFT marketplace for digital collectibles with integrated cryptocurrency.",
-    image: "/nft-marketplace-blockchain-digital-collectibles-cr.jpg",
+    image: "https://lh3.googleusercontent.com/d/12Cy1TqQx_NLG93rH7WLJch27LXB6meO5",
     tags: ["Web3", "NFT", "Blockchain", "Cryptocurrency"],
     roadmap: [
       { phase: "TOKENOMICS", description: "Digital Asset Strategy" },
@@ -285,7 +285,7 @@ const products = [
     category: "Web3 Gaming",
     vision: "Play-to-earn blockchain game integrating NFTs and cryptocurrency rewards.",
     description: "Blockchain-based play-to-earn game with NFT integration and crypto rewards.",
-    image: "/locg-game-image1.png",
+    image: "https://lh3.googleusercontent.com/d/1qfSaOPld8-C3jD52rVwEZrtYxArBz4ms",
     tags: ["Web3", "Gaming", "Play-to-Earn", "NFT"],
     roadmap: [
       { phase: "GAME DESIGN", description: "Gameplay Mechanics" },
@@ -307,7 +307,7 @@ const products = [
     category: "Event Technology",
     vision: "Comprehensive platform for managing hybrid events with virtual and in-person experiences.",
     description: "All-in-one hybrid event platform combining virtual and physical event management.",
-    image: "/md-auditorium.png",
+    image: "https://lh3.googleusercontent.com/d/1aqlyDYC6zO7EFHQwoXdZCIsX3sH_TjCu/view?usp=sharing",
     tags: ["Event Tech", "Hybrid Events", "Platform"],
     roadmap: [
       { phase: "DISCOVERY", description: "Event Needs Research" },
@@ -329,7 +329,7 @@ const products = [
     category: "Virtual Reality Platform",
     vision: "Immersive metaverse creation platform for building virtual experiences and environments.",
     description: "Platform for creating and managing immersive metaverse experiences and virtual worlds.",
-    image: "/metaverse-image1.png",
+    image: "https://lh3.googleusercontent.com/d/1XWVYDiSSlZtBG5gqiSdBK4SvRX1Wa_Zb/view?usp=sharing",
     tags: ["Metaverse", "VR", "Virtual Worlds", "3D"],
     roadmap: [
       { phase: "CONCEPT", description: "Metaverse Vision Defined" },
@@ -351,7 +351,7 @@ const products = [
     category: "Enterprise Productivity Suite",
     vision: "Comprehensive enterprise suite similar to Google Workspace for business productivity and collaboration.",
     description: "All-in-one enterprise productivity suite with collaboration tools and cloud storage.",
-    image: "/nextech-arm.png",
+    image: "https://lh3.googleusercontent.com/d/11qTYl5xj2NU06HbDR0TPdr0xOvUm4h1-/view?usp=sharing",
     tags: ["Enterprise", "Productivity", "SaaS", "Collaboration"],
     roadmap: [
       { phase: "STRATEGY", description: "Product Suite Strategy" },

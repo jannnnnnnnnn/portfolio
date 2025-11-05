@@ -35,14 +35,14 @@ export function CompactProductCard({
         </Badge>
 
         {/* Image */}
-        {/* <div className="relative w-full aspect-[4/3] overflow-hidden bg-muted/30">
+        <div className="relative w-full aspect-[4/3] overflow-hidden bg-muted/30">
           <Image
             src={image || "/placeholder.svg"}
             alt={title}
             fill
             className="object-cover p-4 group-hover:scale-105 transition-transform"
           />
-        </div> */}
+        </div>
 
         {/* Title */}
         <h3 className="text-xl font-bold leading-tight text-balance group-hover:text-accent transition-colors">
