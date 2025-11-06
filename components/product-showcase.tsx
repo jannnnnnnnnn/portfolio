@@ -307,7 +307,7 @@ const products = [
     category: "Event Technology",
     vision: "Comprehensive platform for managing hybrid events with virtual and in-person experiences.",
     description: "All-in-one hybrid event platform combining virtual and physical event management.",
-    image: "https://lh3.googleusercontent.com/d/1aqlyDYC6zO7EFHQwoXdZCIsX3sH_TjCu/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/d/1aqlyDYC6zO7EFHQwoXdZCIsX3sH_TjCu",
     tags: ["Event Tech", "Hybrid Events", "Platform"],
     roadmap: [
       { phase: "DISCOVERY", description: "Event Needs Research" },
@@ -329,7 +329,7 @@ const products = [
     category: "Virtual Reality Platform",
     vision: "Immersive metaverse creation platform for building virtual experiences and environments.",
     description: "Platform for creating and managing immersive metaverse experiences and virtual worlds.",
-    image: "https://lh3.googleusercontent.com/d/1XWVYDiSSlZtBG5gqiSdBK4SvRX1Wa_Zb/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/d/1XWVYDiSSlZtBG5gqiSdBK4SvRX1Wa_Zb",
     tags: ["Metaverse", "VR", "Virtual Worlds", "3D"],
     roadmap: [
       { phase: "CONCEPT", description: "Metaverse Vision Defined" },
@@ -351,7 +351,7 @@ const products = [
     category: "Enterprise Productivity Suite",
     vision: "Comprehensive enterprise suite similar to Google Workspace for business productivity and collaboration.",
     description: "All-in-one enterprise productivity suite with collaboration tools and cloud storage.",
-    image: "https://lh3.googleusercontent.com/d/11qTYl5xj2NU06HbDR0TPdr0xOvUm4h1-/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/d/11qTYl5xj2NU06HbDR0TPdr0xOvUm4h1-",
     tags: ["Enterprise", "Productivity", "SaaS", "Collaboration"],
     roadmap: [
       { phase: "STRATEGY", description: "Product Suite Strategy" },
