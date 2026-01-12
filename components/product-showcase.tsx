@@ -12,20 +12,20 @@ const products = [
       "Centralized digital platform for cancer screening correspondence across Ontario, modernizing public health communication.",
     image: "https://lh3.googleusercontent.com/d/1aq4usD_7HBInrQkprkSH5P_4pH-L0_G0=w1000",
     tags: ["Healthcare", "Digital Transformation", "Public Health"],
-    floatingImages: [
-      {
-        src: "https://lh3.googleusercontent.com/d/1XaFS9REBm_K4iXiK7Wdgpvu_39QPbyTf=w1000",
-        alt: "Digital Correspondence Portal Landing Page",
-      },
-      {
-        src: "https://lh3.googleusercontent.com/d/1pAWFBqfq4nLauz12AEwcHWXu6tMg9wH8=w1000",
-        alt: "Digital Correspondence Portal User Inbox",
-      },
-      {
-        src: "https://lh3.googleusercontent.com/d/1aq4usD_7HBInrQkprkSH5P_4pH-L0_G0=w1000",
-        alt: "Digital Correspondence Portal Help Section",
-      },
-    ],
+    // floatingImages: [
+    //   {
+    //     src: "https://lh3.googleusercontent.com/d/1XaFS9REBm_K4iXiK7Wdgpvu_39QPbyTf=w1000",
+    //     alt: "Digital Correspondence Portal Landing Page",
+    //   },
+    //   {
+    //     src: "https://lh3.googleusercontent.com/d/1pAWFBqfq4nLauz12AEwcHWXu6tMg9wH8=w1000",
+    //     alt: "Digital Correspondence Portal User Inbox",
+    //   },
+    //   {
+    //     src: "https://lh3.googleusercontent.com/d/1aq4usD_7HBInrQkprkSH5P_4pH-L0_G0=w1000",
+    //     alt: "Digital Correspondence Portal Help Section",
+    //   },
+    // ],
     roadmap: [
       {
         phase: "CONCEPT PHASE",
